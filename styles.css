@@ -3,3 +3,43 @@ img {
     bottom: 68%;
     left: 43%;
 }
+.SearchBar{
+    position: fixed;
+    bottom: 65%;
+    left: 36%;
+    width: 510px;
+}
+.SearchButton{
+    position: fixed;
+    bottom: 61%;
+    left: 43%;
+}
+.LuckyButton{
+position: fixed;
+bottom: 61%;
+left: 50%;
+}
+.MailButton{
+position: fixed;
+bottom: 96%;
+left: 90%;
+font-size: 13px;
+}
+.AboutButton{
+position: fixed;
+bottom: 96%;
+left: 2%;
+font-size: 13px;
+}
+.ImagesButton{
+position: fixed;
+bottom: 96%;
+left: 94%;
+font-size: 13px;
+}
+.StoreButton{
+position: fixed;
+bottom: 96%;
+left: 6%;
+font-size: 13px;
+}
